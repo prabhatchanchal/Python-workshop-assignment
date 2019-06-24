@@ -1,2 +1,2 @@
 # all-assignment
-all assignment of python woe=rkshop
+all assignment of python workshop
